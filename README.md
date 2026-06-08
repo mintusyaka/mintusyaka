@@ -1,5 +1,3 @@
-# About Me
-
 ## Who Am I?
 Hello! I am **Stanislav Mintus**, a 20-year-old developer based in Lviv, Ukraine.
 I am actively transitioning into Embedded Software Engineering, driven by a passion
