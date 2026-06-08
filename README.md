@@ -32,4 +32,4 @@ that run on PC before deployment to hardware.
 ## How to Reach Me?
 - **Location:** Lviv, Ukraine (Open to local and remote roles)
 - **Email:** [sts.mnts@gmail.com](mailto:sts.mnts@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/stanislav-mintus-28aa83286/](https://linkedin.com)
+- **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/stanislav-mintus-28aa83286/)
